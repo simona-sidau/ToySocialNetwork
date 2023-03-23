@@ -18,12 +18,12 @@ An user can get an old conversation with one of his friends.
 
 ![image](https://user-images.githubusercontent.com/91499027/227323927-a28b853f-f5a9-4353-9fff-8d37ca409d8d.png)
 
-An delete a friend. 
+And delete a friend. 
 
 ![image](https://user-images.githubusercontent.com/91499027/227324234-3b4f505a-8fae-4164-860f-2a8ab11a01f5.png)
 ![image](https://user-images.githubusercontent.com/91499027/227324377-4846afda-9a97-41f5-ad6d-a258319c1b75.png)
 
-Also, an user can participate in an eveniment, and withdraw his participation.
+Also, an user can participate in an event, and withdraw his participation.
 
 ![image](https://user-images.githubusercontent.com/91499027/227326110-2fcb0a09-2806-47b0-9758-651d8f7739d8.png)
 ![image](https://user-images.githubusercontent.com/91499027/227326393-9eaf034f-b17e-4b03-a20f-1be0f39f4a2e.png)
